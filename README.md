@@ -6,3 +6,4 @@ Personal notes of topics of nuances and intricacies.
 * CSS - document flow / normal flow
 * CSS - box model
 * CSS - block vs inline
+* Continuous media vs paged media
